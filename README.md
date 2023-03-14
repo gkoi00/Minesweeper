@@ -1,7 +1,7 @@
 # Minesweeper
- A minesweeper game in javafx.
+ A minesweeper game in javafx, using IntelliJ IDEA and Maven.
  
- ## Dependances
+ ## Requirements
  
- * java 19.0.2
- * javafx 19.0.2.1
+ * java 19.0.2 or later
+ * javafx 19.0.2.1 or later
